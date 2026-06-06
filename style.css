@@ -1,0 +1,16 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.button{
+    padding: 8px;
+    margin: 0 7px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.row{
+    margin: 80px 0;
+}
